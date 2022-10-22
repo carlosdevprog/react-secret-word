@@ -1,0 +1,13 @@
+h2 span{
+    color: #d61c9b;
+    font-size: 1.5em;
+}
+
+.gameover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    font-size: 1.2em;
+}
