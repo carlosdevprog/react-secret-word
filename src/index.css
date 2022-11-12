@@ -6,15 +6,15 @@ body{
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   margin: 0;
   padding: 0;
-  /*background: linear-gradient(180deg, rgba(9, 35, 175, 1)0%, rgba(0, 0, 0, 1) 100%);*/
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(125,203,208,1) 0%, rgba(68,129,119,1) 68%);
   color: #ffffff;
-  background-image: url(./assets/roxo.jpg);
+  
   background-size:cover;
   background-repeat: no-repeat;
 }
 
 button{
-  background: #1646a0;
+  background: #43a3ca;
   color:#ffffff;
   padding: 0 45px;
   border: 2px solid #ffffff;
@@ -28,5 +28,5 @@ button{
 }
 
 button:hover{
-  background: #0923ef;
+  background: #343c72;
 }

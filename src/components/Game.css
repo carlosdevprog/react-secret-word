@@ -13,14 +13,14 @@
 }
 
 .tip span{
-    color:#ecfa00;
+    color:#072b19;
     font-size: 1.5em;
 }
 
 .wordContainer{
     margin: 1.5em;
     padding: 1.5em;
-    border: 20px solid #ecfa00;
+    border: 20px solid #383a08;
     display: flex;
 
 }
